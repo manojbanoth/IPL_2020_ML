@@ -6,9 +6,9 @@ output file should contain only Player Name and the respective IPL 2020 for the 
 
 
 Table of Content 
-1.Importing Dataset 
-2.EDA 
-3.Model 
-1.Xg Boost 
-4.Metrics
+    1.Importing Dataset 
+    2.EDA 
+    3.Model 
+      1.Xg Boost 
+    4.Metrics
 
